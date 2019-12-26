@@ -1,0 +1,2 @@
+ashok	   file2.html  file4.html  index.html
+file1.txt  file3.html  file5.txt   New\ Text\ Document.txt
