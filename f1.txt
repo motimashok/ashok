@@ -1,0 +1,3 @@
+ashok	     f1.txt	 file3.html  file6.txt	 New\ Text\ Document.txt
+ashok1.html  file1.txt	 file4.html  hai.txt
+ashok2.txt   file2.html  file5.txt   index.html
